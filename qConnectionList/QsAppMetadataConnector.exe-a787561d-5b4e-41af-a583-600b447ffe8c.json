@@ -1,0 +1,21 @@
+{
+  "qtype": "QsAppMetadataConnector.exe",
+  "qid": "a787561d-5b4e-41af-a583-600b447ffe8c",
+  "qProperties": {
+    "qId": "a787561d-5b4e-41af-a583-600b447ffe8c",
+    "qName": "appmeta",
+    "qConnectionString": "CUSTOM CONNECT TO \"provider=QsAppMetadataConnector.exe;environment=Desktop;appid=C:\\Users\\rob\\Documents\\Qlik\\Sense\\Apps\\DA Sample App.qvf;appname=DA Sample App.qvf;\"",
+    "qType": "QsAppMetadataConnector.exe",
+    "qMeta": {
+      "qArchitecture": 0,
+      "createdDate": "2021-02-16T21:27:13.851Z",
+      "modifiedDate": "2021-02-16T21:27:13.851Z",
+      "privileges": [
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "qLogOn": "LOG_ON_SERVICE_USER"
+  }
+}

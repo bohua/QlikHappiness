@@ -1,0 +1,21 @@
+{
+  "qtype": "QvEventLogConnectorSimple.exe",
+  "qid": "16f1edc7-e722-4fb7-8132-2428fc750c47",
+  "qProperties": {
+    "qId": "16f1edc7-e722-4fb7-8132-2428fc750c47",
+    "qName": "QV Event",
+    "qConnectionString": "CUSTOM CONNECT TO \"provider=QvEventLogConnectorSimple.exe;host=localhost;\"",
+    "qType": "QvEventLogConnectorSimple.exe",
+    "qMeta": {
+      "qArchitecture": 0,
+      "createdDate": "2019-11-25T12:34:31.206Z",
+      "modifiedDate": "2019-11-25T12:34:31.206Z",
+      "privileges": [
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "qLogOn": "LOG_ON_SERVICE_USER"
+  }
+}

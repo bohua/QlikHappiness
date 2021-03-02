@@ -1,0 +1,21 @@
+{
+  "qtype": "folder",
+  "qid": "1d4b49b3-cca7-4935-a505-0e4bd89edc4a",
+  "qProperties": {
+    "qId": "1d4b49b3-cca7-4935-a505-0e4bd89edc4a",
+    "qName": "QAAS (s-cubed_da)",
+    "qConnectionString": "\\\\qlikview2012\\SharedFiles\\QaaS\\",
+    "qType": "folder",
+    "qMeta": {
+      "qArchitecture": 0,
+      "createdDate": "2020-01-22T07:51:23.748Z",
+      "modifiedDate": "2020-01-22T07:51:23.748Z",
+      "privileges": [
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "qLogOn": "LOG_ON_SERVICE_USER"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "qtype": "internet",
+  "qid": "c2af34e3-7652-407f-80d4-e3cbb3318ecb",
+  "qProperties": {
+    "qId": "c2af34e3-7652-407f-80d4-e3cbb3318ecb",
+    "qName": "Scripps",
+    "qConnectionString": "http://scrippsco2.ucsd.edu/assets/data/atmospheric/stations/in_situ_co2/monthly/monthly_in_situ_co2_mlo.csv",
+    "qType": "internet",
+    "qMeta": {
+      "qArchitecture": 0,
+      "createdDate": "2019-11-11T10:03:30.221Z",
+      "modifiedDate": "2019-11-11T10:03:30.221Z",
+      "privileges": [
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "qLogOn": "LOG_ON_SERVICE_USER"
+  }
+}

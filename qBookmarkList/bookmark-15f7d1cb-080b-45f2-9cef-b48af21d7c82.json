@@ -1,0 +1,46 @@
+{
+  "qtype": "bookmark",
+  "qid": "15f7d1cb-080b-45f2-9cef-b48af21d7c82",
+  "qProperties": {
+    "qInfo": {
+      "qId": "15f7d1cb-080b-45f2-9cef-b48af21d7c82",
+      "qType": "bookmark"
+    },
+    "qMetaDef": {
+      "title": "Private one",
+      "description": ""
+    },
+    "creationDate": "2020-05-05T08:35:59.186Z",
+    "sheetId": "c5e87734-ef5a-4868-a79b-da91d13420fe",
+    "selectionFields": ""
+  },
+  "qChildInfos": [],
+  "qMeta": {
+    "title": "Private one",
+    "description": "",
+    "createdDate": "2020-10-06T08:56:32.788Z",
+    "modifiedDate": "2020-10-06T19:06:04.213Z",
+    "published": false,
+    "publishTime": "1753-01-01T00:00:00.000Z",
+    "approved": false,
+    "owner": {
+      "id": "b1035eac-0a60-45fd-886a-1b7fdd4917a5",
+      "userId": "bl",
+      "userDirectory": "S-CUBED",
+      "userDirectoryConnectorName": "S-CUBED",
+      "name": "Bohua Li",
+      "privileges": null
+    },
+    "qSize": -1,
+    "sourceObject": "",
+    "draftObject": "",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "exportdata",
+      "publish",
+      "approve"
+    ]
+  }
+}

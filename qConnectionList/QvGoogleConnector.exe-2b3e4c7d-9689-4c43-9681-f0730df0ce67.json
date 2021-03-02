@@ -1,0 +1,21 @@
+{
+  "qtype": "QvGoogleConnector.exe",
+  "qid": "2b3e4c7d-9689-4c43-9681-f0730df0ce67",
+  "qProperties": {
+    "qId": "2b3e4c7d-9689-4c43-9681-f0730df0ce67",
+    "qName": "da (s-cubed_da)",
+    "qConnectionString": "CUSTOM CONNECT TO \"provider=QvGoogleConnector.exe;profile=5036126;report=744096888;destPath=\\\\qlikview2012\\SharedFiles\\QaaS\\;destId=1d4b49b3-cca7-4935-a505-0e4bd89edc4a;destName=QAAS (s-cubed_da);\"",
+    "qType": "QvGoogleConnector.exe",
+    "qMeta": {
+      "qArchitecture": 0,
+      "createdDate": "2020-01-22T07:49:05.243Z",
+      "modifiedDate": "2020-10-26T12:23:07.785Z",
+      "privileges": [
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "qLogOn": "LOG_ON_SERVICE_USER"
+  }
+}

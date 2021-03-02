@@ -1,0 +1,21 @@
+{
+  "qtype": "internet",
+  "qid": "8fd820ca-f6a7-459f-b08a-b4e4dcf89a64",
+  "qProperties": {
+    "qId": "8fd820ca-f6a7-459f-b08a-b4e4dcf89a64",
+    "qName": "w3school (s-cubed_db)",
+    "qConnectionString": "http://www.w3schools.com/tags/ref_urlencode.asp",
+    "qType": "internet",
+    "qMeta": {
+      "qArchitecture": 0,
+      "createdDate": "2020-08-19T23:36:56.451Z",
+      "modifiedDate": "2020-08-19T23:36:56.451Z",
+      "privileges": [
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "qLogOn": "LOG_ON_SERVICE_USER"
+  }
+}

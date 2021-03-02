@@ -1,0 +1,21 @@
+{
+  "qtype": "IdevioGeoAnalyticsConnector.exe",
+  "qid": "5e880bc0-a48e-4baf-a534-035f4cdc4472",
+  "qProperties": {
+    "qId": "5e880bc0-a48e-4baf-a534-035f4cdc4472",
+    "qName": "QGA",
+    "qConnectionString": "CUSTOM CONNECT TO \"provider=IdevioGeoAnalyticsConnector.exe;host=localhost;name=QGA;server=https://ga.qlikcloud.com;server2=Cloud;\"",
+    "qType": "IdevioGeoAnalyticsConnector.exe",
+    "qMeta": {
+      "qArchitecture": 0,
+      "createdDate": "2019-11-11T10:03:30.221Z",
+      "modifiedDate": "2019-11-11T10:03:30.221Z",
+      "privileges": [
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "qLogOn": "LOG_ON_SERVICE_USER"
+  }
+}

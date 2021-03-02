@@ -1,0 +1,21 @@
+{
+  "qtype": "folder",
+  "qid": "43e0e8a2-f8b7-4ce4-a74a-bbe89655bd84",
+  "qProperties": {
+    "qId": "43e0e8a2-f8b7-4ce4-a74a-bbe89655bd84",
+    "qName": "monitor_apps_qlikview_logs",
+    "qConnectionString": "C:\\ProgramData\\QlikTech\\QlikViewServer\\",
+    "qType": "folder",
+    "qMeta": {
+      "qArchitecture": 0,
+      "createdDate": "2019-10-17T07:32:31.266Z",
+      "modifiedDate": "2019-10-17T07:32:31.266Z",
+      "privileges": [
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "qLogOn": "LOG_ON_SERVICE_USER"
+  }
+}

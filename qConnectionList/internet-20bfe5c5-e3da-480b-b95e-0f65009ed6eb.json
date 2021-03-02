@@ -1,0 +1,21 @@
+{
+  "qtype": "internet",
+  "qid": "20bfe5c5-e3da-480b-b95e-0f65009ed6eb",
+  "qProperties": {
+    "qId": "20bfe5c5-e3da-480b-b95e-0f65009ed6eb",
+    "qName": "Nasa",
+    "qConnectionString": "https://data.giss.nasa.gov/gistemp/graphs/graph_data/Global_Mean_Estimates_based_on_Land_and_Ocean_Data/graph.txt",
+    "qType": "internet",
+    "qMeta": {
+      "qArchitecture": 0,
+      "createdDate": "2019-11-11T10:03:30.221Z",
+      "modifiedDate": "2019-11-11T10:03:30.221Z",
+      "privileges": [
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "qLogOn": "LOG_ON_SERVICE_USER"
+  }
+}

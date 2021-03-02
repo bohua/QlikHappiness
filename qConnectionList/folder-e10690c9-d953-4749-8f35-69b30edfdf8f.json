@@ -1,0 +1,21 @@
+{
+  "qtype": "folder",
+  "qid": "e10690c9-d953-4749-8f35-69b30edfdf8f",
+  "qProperties": {
+    "qId": "e10690c9-d953-4749-8f35-69b30edfdf8f",
+    "qName": "KOMMENT_DATA_FOLDER",
+    "qConnectionString": "\\\\QlikView2012\\SharedFiles\\Komment\\Komment_v2.1\\",
+    "qType": "folder",
+    "qMeta": {
+      "qArchitecture": 0,
+      "createdDate": "2020-06-03T13:42:12.927Z",
+      "modifiedDate": "2020-06-03T13:42:12.927Z",
+      "privileges": [
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "qLogOn": "LOG_ON_SERVICE_USER"
+  }
+}

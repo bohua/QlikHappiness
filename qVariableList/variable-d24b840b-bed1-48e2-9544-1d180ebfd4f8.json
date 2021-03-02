@@ -1,0 +1,33 @@
+{
+  "qtype": "variable",
+  "qid": "d24b840b-bed1-48e2-9544-1d180ebfd4f8",
+  "qProperties": {
+    "qInfo": {
+      "qId": "d24b840b-bed1-48e2-9544-1d180ebfd4f8",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vTest",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "2",
+    "tags": []
+  },
+  "qChildInfos": [],
+  "qMeta": {
+    "qEngineObjectType": "",
+    "title": "",
+    "createdDate": "2020-10-06T08:56:32.788Z",
+    "modifiedDate": "2020-10-06T09:05:49.189Z",
+    "qSize": -1,
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "exportdata"
+    ]
+  }
+}

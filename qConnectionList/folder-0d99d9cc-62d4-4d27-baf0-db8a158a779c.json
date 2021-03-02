@@ -1,0 +1,21 @@
+{
+  "qtype": "folder",
+  "qid": "0d99d9cc-62d4-4d27-baf0-db8a158a779c",
+  "qProperties": {
+    "qId": "0d99d9cc-62d4-4d27-baf0-db8a158a779c",
+    "qName": "Demo",
+    "qConnectionString": "\\\\qlikview2012\\SharedFiles\\QaaS\\BL\\",
+    "qType": "folder",
+    "qMeta": {
+      "qArchitecture": 0,
+      "createdDate": "2020-03-18T09:24:10.924Z",
+      "modifiedDate": "2020-03-18T09:25:40.557Z",
+      "privileges": [
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "qLogOn": "LOG_ON_SERVICE_USER"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "qtype": "folder",
+  "qid": "84cc076b-162e-4906-9522-ffceb28d990d",
+  "qProperties": {
+    "qId": "84cc076b-162e-4906-9522-ffceb28d990d",
+    "qName": "DataPrepAppCache",
+    "qConnectionString": "\\\\qs-sand01\\QlikShare\\Apps\\DataPrepAppCache\\<APP_ID>",
+    "qType": "folder",
+    "qMeta": {
+      "qArchitecture": 0,
+      "createdDate": "2019-10-17T08:31:45.079Z",
+      "modifiedDate": "2019-10-17T08:31:45.128Z",
+      "privileges": [
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "qLogOn": "LOG_ON_SERVICE_USER"
+  }
+}

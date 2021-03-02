@@ -1,0 +1,21 @@
+{
+  "qtype": "folder",
+  "qid": "56bd39f0-d80e-4bff-a50b-af92a60ac4e6",
+  "qProperties": {
+    "qId": "56bd39f0-d80e-4bff-a50b-af92a60ac4e6",
+    "qName": "daresults",
+    "qConnectionString": "c:\\temp\\daresults\\",
+    "qType": "folder",
+    "qMeta": {
+      "qArchitecture": 0,
+      "createdDate": "2021-02-16T21:27:13.851Z",
+      "modifiedDate": "2021-02-16T21:27:13.851Z",
+      "privileges": [
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "qLogOn": "LOG_ON_SERVICE_USER"
+  }
+}

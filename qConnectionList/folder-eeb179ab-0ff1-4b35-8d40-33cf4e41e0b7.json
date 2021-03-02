@@ -1,0 +1,21 @@
+{
+  "qtype": "folder",
+  "qid": "eeb179ab-0ff1-4b35-8d40-33cf4e41e0b7",
+  "qProperties": {
+    "qId": "eeb179ab-0ff1-4b35-8d40-33cf4e41e0b7",
+    "qName": "RBM_Root",
+    "qConnectionString": "\\\\qlikview2012\\SharedFiles\\Sense\\Novo Nordisk\\RBM\\",
+    "qType": "folder",
+    "qMeta": {
+      "qArchitecture": 0,
+      "createdDate": "2020-06-18T13:05:13.192Z",
+      "modifiedDate": "2020-06-18T13:06:14.396Z",
+      "privileges": [
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "qLogOn": "LOG_ON_SERVICE_USER"
+  }
+}

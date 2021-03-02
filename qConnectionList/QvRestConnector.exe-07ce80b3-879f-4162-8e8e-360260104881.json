@@ -1,0 +1,21 @@
+{
+  "qtype": "QvRestConnector.exe",
+  "qid": "07ce80b3-879f-4162-8e8e-360260104881",
+  "qProperties": {
+    "qId": "07ce80b3-879f-4162-8e8e-360260104881",
+    "qName": "REST_Kaptain",
+    "qConnectionString": "CUSTOM CONNECT TO \"provider=QvRestConnector.exe;url=https://qomment.s-cubed.local:8000/kapsule/5ee78aa70adb3e09e0e1f8a0/read;timeout=30;method=GET;httpProtocol=1.1;isKeepAlive=true;bodyEncoding=UTF-8;sendExpect100Continue=true;autoDetectResponseType=true;checkResponseTypeOnTestConnection=true;keyGenerationStrategy=0;authSchema=anonymous;skipServerCertificateValidation=false;useCertificate=No;certificateStoreLocation=LocalMachine;certificateStoreName=My;queryParameters=markReloaded%2true;addMissingQueryParametersToFinalRequest=false;PaginationType=None;allowResponseHeaders=false;allowHttpsOnly=false;useProxy=false;proxyBypassOnLocal=false;proxyUseDefaultCredentials=true;\"",
+    "qType": "QvRestConnector.exe",
+    "qMeta": {
+      "qArchitecture": 0,
+      "createdDate": "2020-06-15T13:43:15.151Z",
+      "modifiedDate": "2020-06-15T15:40:35.015Z",
+      "privileges": [
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "qLogOn": "LOG_ON_SERVICE_USER"
+  }
+}

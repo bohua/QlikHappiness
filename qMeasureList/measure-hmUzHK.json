@@ -1,0 +1,63 @@
+{
+  "qtype": "measure",
+  "qid": "hmUzHK",
+  "qProperties": {
+    "qInfo": {
+      "qId": "hmUzHK",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qLabel": "GDP per capita",
+      "qDef": "Avg([GDP/capita ($PPP)])",
+      "qGrouping": "N",
+      "qExpressions": [],
+      "qActiveExpression": 0,
+      "qNumFormat": {
+        "qType": "U",
+        "qnDec": 10,
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "title": "GDP per capita",
+      "description": "This expression calculates the average Gross Domestic Product per capita.",
+      "tags": [
+        "GDP",
+        "Gross Domestic Product"
+      ]
+    }
+  },
+  "qChildInfos": [],
+  "qMeta": {
+    "title": "GDP per capita",
+    "description": "This expression calculates the average Gross Domestic Product per capita.",
+    "createdDate": "2020-10-06T08:56:32.788Z",
+    "modifiedDate": "2020-10-06T19:06:04.213Z",
+    "published": false,
+    "publishTime": "1753-01-01T00:00:00.000Z",
+    "approved": false,
+    "owner": {
+      "id": "b1035eac-0a60-45fd-886a-1b7fdd4917a5",
+      "userId": "bl",
+      "userDirectory": "S-CUBED",
+      "userDirectoryConnectorName": "S-CUBED",
+      "name": "Bohua Li",
+      "privileges": null
+    },
+    "qSize": -1,
+    "sourceObject": "",
+    "draftObject": "",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "exportdata",
+      "publish",
+      "approve"
+    ],
+    "tags": [
+      "GDP",
+      "Gross Domestic Product"
+    ]
+  }
+}

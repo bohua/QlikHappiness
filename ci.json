@@ -1,0 +1,39 @@
+{
+  "name": "Promotion Pipeline",
+  "description": "A Sample Pipeline to promote a QVF from repository to Qlik Sense SIT server",
+  "tasks": [
+    {
+      "name": "Build",
+      "description": "Build QVF from Git repo into Qlik Sense",
+      "command": "build",
+      "params": {
+        "buildName": "Qlik CI Dev",
+        "keepData": false
+      }
+    },
+    {
+      "name": "Reload App",
+      "description": "Reload Qlik App in Qlik Sense",
+      "command": "reload",
+      "params": {}
+    },
+    {
+      "name": "Publish App",
+      "description": "Publish App in Qlik Sense",
+      "command": "publish",
+      "params": {
+        "streamId": "b2ae184b-4206-4943-875f-80cce0f92853",
+        "targetAppId": "533066cb-babd-47be-95be-c879ac924b74",
+        "publishName": "Qlik CI"
+      }
+    },
+    {
+      "name": "Clean Build",
+      "description": "Clean Build in Qlik Sense",
+      "command": "clean",
+      "params": {
+        "cleanBuild": true
+      }
+    }
+  ]
+}

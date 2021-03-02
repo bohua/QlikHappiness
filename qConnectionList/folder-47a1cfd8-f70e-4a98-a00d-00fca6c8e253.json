@@ -1,0 +1,21 @@
+{
+  "qtype": "folder",
+  "qid": "47a1cfd8-f70e-4a98-a00d-00fca6c8e253",
+  "qProperties": {
+    "qId": "47a1cfd8-f70e-4a98-a00d-00fca6c8e253",
+    "qName": "AttachedFiles",
+    "qConnectionString": "\\\\qs-sand01\\QlikShare\\StaticContent\\AppContent\\<APP_ID>",
+    "qType": "folder",
+    "qMeta": {
+      "qArchitecture": 0,
+      "createdDate": "2019-10-16T13:09:25.110Z",
+      "modifiedDate": "2019-10-16T13:09:25.110Z",
+      "privileges": [
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "qLogOn": "LOG_ON_SERVICE_USER"
+  }
+}

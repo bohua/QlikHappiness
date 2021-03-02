@@ -1,0 +1,76 @@
+{
+  "qTitle": "Happiness",
+  "qLastReloadTime": "2020-09-15T11:58:02.613Z",
+  "qMigrationHash": "504d4e39a7133ee172fbe29aa58348b1e4054149",
+  "qSavedInProductVersion": "12.531.4",
+  "qThumbnail": {
+    "qUrl": "/appcontent/d820fc07-439a-4724-a7f0-d9ef3e078651/Happiness-thumbnail.png"
+  },
+  "createdDate": "2020-10-06T08:56:32.094Z",
+  "modifiedDate": "2020-10-06T19:06:04.213Z",
+  "published": false,
+  "publishTime": "1753-01-01T00:00:00.000Z",
+  "privileges": [
+    "read",
+    "update",
+    "delete",
+    "publish",
+    "exportdata",
+    "offlineaccess",
+    "duplicate"
+  ],
+  "description": "The world is full of happy people from one stretch of the globe to the other.  Yet some countries have a higher concentration of joy than others.  But what\u2019s the secret to these happy countries? ...",
+  "dynamicColor": null,
+  "create": [
+    {
+      "resource": "sheet",
+      "canCreate": true
+    },
+    {
+      "resource": "bookmark",
+      "canCreate": true
+    },
+    {
+      "resource": "snapshot",
+      "canCreate": true
+    },
+    {
+      "resource": "story",
+      "canCreate": true
+    },
+    {
+      "resource": "dimension",
+      "canCreate": true
+    },
+    {
+      "resource": "measure",
+      "canCreate": true
+    },
+    {
+      "resource": "masterobject",
+      "canCreate": true
+    },
+    {
+      "resource": "folderconnection",
+      "canCreate": true
+    },
+    {
+      "resource": "oledbconnection",
+      "canCreate": true
+    },
+    {
+      "resource": "odbcconnection",
+      "canCreate": true
+    },
+    {
+      "resource": "internetconnection",
+      "canCreate": true
+    },
+    {
+      "resource": "customconnection",
+      "canCreate": true
+    }
+  ],
+  "stream": null,
+  "canCreateDataConnections": true
+}

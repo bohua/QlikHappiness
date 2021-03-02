@@ -1,0 +1,21 @@
+{
+  "qtype": "folder",
+  "qid": "eca0a5d8-56c3-4a47-8877-ec0fc7cba428",
+  "qProperties": {
+    "qId": "eca0a5d8-56c3-4a47-8877-ec0fc7cba428",
+    "qName": "QlikDemoQV",
+    "qConnectionString": "\\\\qlikview2012\\SharedFiles\\QlikDemo\\",
+    "qType": "folder",
+    "qMeta": {
+      "qArchitecture": 0,
+      "createdDate": "2020-03-09T09:06:03.299Z",
+      "modifiedDate": "2020-09-07T07:29:29.491Z",
+      "privileges": [
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "qLogOn": "LOG_ON_SERVICE_USER"
+  }
+}

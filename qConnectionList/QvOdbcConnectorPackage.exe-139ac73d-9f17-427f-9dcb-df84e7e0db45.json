@@ -1,0 +1,21 @@
+{
+  "qtype": "QvOdbcConnectorPackage.exe",
+  "qid": "139ac73d-9f17-427f-9dcb-df84e7e0db45",
+  "qProperties": {
+    "qId": "139ac73d-9f17-427f-9dcb-df84e7e0db45",
+    "qName": "aact.ctti-clinicaltrials.org (s-cubed_db)",
+    "qConnectionString": "CUSTOM CONNECT TO \"provider=QvOdbcConnectorPackage.exe;driver=postgres;host=aact-db.ctti-clinicaltrials.org;port=5432;db=aact;SSLMode=prefer;UseSystemTrustStore=false;ByteaAsLongVarBinary=0;TextAsLongVarchar=0;UseUnicode=1;FetchTSWTZasTimestamp=1;MaxVarcharSize=262144;UseDeclareFetch=1;Fetch=200;EnableTableTypes=1;MoneyAsDecimal=1;QueryTimeout=60;\"",
+    "qType": "QvOdbcConnectorPackage.exe",
+    "qMeta": {
+      "qArchitecture": 0,
+      "createdDate": "2020-05-29T21:37:40.742Z",
+      "modifiedDate": "2020-05-29T21:37:40.742Z",
+      "privileges": [
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "qLogOn": "LOG_ON_SERVICE_USER"
+  }
+}

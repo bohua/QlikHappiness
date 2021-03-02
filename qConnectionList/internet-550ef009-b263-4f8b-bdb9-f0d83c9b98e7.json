@@ -1,0 +1,21 @@
+{
+  "qtype": "internet",
+  "qid": "550ef009-b263-4f8b-bdb9-f0d83c9b98e7",
+  "qProperties": {
+    "qId": "550ef009-b263-4f8b-bdb9-f0d83c9b98e7",
+    "qName": "Butler script (s-cubed_db)",
+    "qConnectionString": "http://www.w3schools.com/tags/ref_urlencode.asp",
+    "qType": "internet",
+    "qMeta": {
+      "qArchitecture": 0,
+      "createdDate": "2020-08-19T23:30:08.052Z",
+      "modifiedDate": "2020-08-19T23:30:08.052Z",
+      "privileges": [
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "qLogOn": "LOG_ON_SERVICE_USER"
+  }
+}

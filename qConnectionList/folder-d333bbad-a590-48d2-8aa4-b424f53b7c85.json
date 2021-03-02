@@ -1,0 +1,21 @@
+{
+  "qtype": "folder",
+  "qid": "d333bbad-a590-48d2-8aa4-b424f53b7c85",
+  "qProperties": {
+    "qId": "d333bbad-a590-48d2-8aa4-b424f53b7c85",
+    "qName": "RBM_QVD_Datamodel",
+    "qConnectionString": "\\\\qlikview2012\\SharedFiles\\Sense\\Novo Nordisk\\RBM\\50_QVD\\Datamodel\\",
+    "qType": "folder",
+    "qMeta": {
+      "qArchitecture": 0,
+      "createdDate": "2020-06-18T13:03:50.446Z",
+      "modifiedDate": "2020-06-18T13:06:09.102Z",
+      "privileges": [
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "qLogOn": "LOG_ON_SERVICE_USER"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "qtype": "folder",
+  "qid": "52556928-915c-486b-8277-a5e792861a6b",
+  "qProperties": {
+    "qId": "52556928-915c-486b-8277-a5e792861a6b",
+    "qName": "QlikDemo",
+    "qConnectionString": "C:\\QlikDemo\\",
+    "qType": "folder",
+    "qMeta": {
+      "qArchitecture": 0,
+      "createdDate": "2019-11-25T12:34:31.206Z",
+      "modifiedDate": "2020-06-01T18:21:48.353Z",
+      "privileges": [
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "qLogOn": "LOG_ON_SERVICE_USER"
+  }
+}

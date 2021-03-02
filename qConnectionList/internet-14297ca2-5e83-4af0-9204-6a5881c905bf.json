@@ -1,0 +1,21 @@
+{
+  "qtype": "internet",
+  "qid": "14297ca2-5e83-4af0-9204-6a5881c905bf",
+  "qProperties": {
+    "qId": "14297ca2-5e83-4af0-9204-6a5881c905bf",
+    "qName": "TestNAB (s-cubed_qv_svcqv12)",
+    "qConnectionString": "https://opendata.ecdc.europa.eu/covid19/casedistribution/xlsx",
+    "qType": "internet",
+    "qMeta": {
+      "qArchitecture": 0,
+      "createdDate": "2020-10-27T10:32:27.390Z",
+      "modifiedDate": "2020-10-28T09:26:23.216Z",
+      "privileges": [
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "qLogOn": "LOG_ON_SERVICE_USER"
+  }
+}

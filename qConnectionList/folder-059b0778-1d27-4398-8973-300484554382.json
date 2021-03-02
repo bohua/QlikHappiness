@@ -1,0 +1,21 @@
+{
+  "qtype": "folder",
+  "qid": "059b0778-1d27-4398-8973-300484554382",
+  "qProperties": {
+    "qId": "059b0778-1d27-4398-8973-300484554382",
+    "qName": "ArchivedLogsFolder",
+    "qConnectionString": "\\\\qs-sand01\\QlikShare\\ArchivedLogs",
+    "qType": "folder",
+    "qMeta": {
+      "qArchitecture": 0,
+      "createdDate": "2019-10-16T13:09:25.689Z",
+      "modifiedDate": "2019-10-16T13:09:25.689Z",
+      "privileges": [
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "qLogOn": "LOG_ON_SERVICE_USER"
+  }
+}

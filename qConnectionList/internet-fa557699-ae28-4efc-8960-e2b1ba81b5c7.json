@@ -1,0 +1,21 @@
+{
+  "qtype": "internet",
+  "qid": "fa557699-ae28-4efc-8960-e2b1ba81b5c7",
+  "qProperties": {
+    "qId": "fa557699-ae28-4efc-8960-e2b1ba81b5c7",
+    "qName": "git",
+    "qConnectionString": "https://raw.githubusercontent.com/patricnordstrom/pltrack/master/test.qvs",
+    "qType": "internet",
+    "qMeta": {
+      "qArchitecture": 0,
+      "createdDate": "2019-11-11T10:03:30.221Z",
+      "modifiedDate": "2019-11-11T10:03:30.221Z",
+      "privileges": [
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "qLogOn": "LOG_ON_SERVICE_USER"
+  }
+}

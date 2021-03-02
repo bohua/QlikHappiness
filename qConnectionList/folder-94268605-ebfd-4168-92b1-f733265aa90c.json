@@ -1,0 +1,21 @@
+{
+  "qtype": "folder",
+  "qid": "94268605-ebfd-4168-92b1-f733265aa90c",
+  "qProperties": {
+    "qId": "94268605-ebfd-4168-92b1-f733265aa90c",
+    "qName": "KommentValidation_v2.1.0",
+    "qConnectionString": "\\\\qlikview2012\\SharedFiles\\QaaS\\KommentValidation_v2.1.0\\",
+    "qType": "folder",
+    "qMeta": {
+      "qArchitecture": 0,
+      "createdDate": "2020-05-29T08:56:54.559Z",
+      "modifiedDate": "2020-05-29T08:59:36.086Z",
+      "privileges": [
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "qLogOn": "LOG_ON_SERVICE_USER"
+  }
+}

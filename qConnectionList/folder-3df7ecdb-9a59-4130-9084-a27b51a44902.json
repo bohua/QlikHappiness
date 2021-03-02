@@ -1,0 +1,21 @@
+{
+  "qtype": "folder",
+  "qid": "3df7ecdb-9a59-4130-9084-a27b51a44902",
+  "qProperties": {
+    "qId": "3df7ecdb-9a59-4130-9084-a27b51a44902",
+    "qName": "DataFiles",
+    "qConnectionString": "C:\\QlikDemo\\Happiness\\",
+    "qType": "folder",
+    "qMeta": {
+      "qArchitecture": 0,
+      "createdDate": "2020-09-28T20:38:34.402Z",
+      "modifiedDate": "2020-09-28T20:42:37.255Z",
+      "privileges": [
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "qLogOn": "LOG_ON_SERVICE_USER"
+  }
+}

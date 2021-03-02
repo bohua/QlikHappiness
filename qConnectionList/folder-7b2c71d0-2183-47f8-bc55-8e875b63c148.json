@@ -1,0 +1,21 @@
+{
+  "qtype": "folder",
+  "qid": "7b2c71d0-2183-47f8-bc55-8e875b63c148",
+  "qProperties": {
+    "qId": "7b2c71d0-2183-47f8-bc55-8e875b63c148",
+    "qName": "temp",
+    "qConnectionString": "c:\\temp\\",
+    "qType": "folder",
+    "qMeta": {
+      "qArchitecture": 0,
+      "createdDate": "2019-11-11T10:03:30.221Z",
+      "modifiedDate": "2019-11-11T10:03:30.221Z",
+      "privileges": [
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "qLogOn": "LOG_ON_SERVICE_USER"
+  }
+}

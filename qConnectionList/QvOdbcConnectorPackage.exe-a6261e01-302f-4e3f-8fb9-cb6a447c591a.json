@@ -1,0 +1,21 @@
+{
+  "qtype": "QvOdbcConnectorPackage.exe",
+  "qid": "a6261e01-302f-4e3f-8fb9-cb6a447c591a",
+  "qProperties": {
+    "qId": "a6261e01-302f-4e3f-8fb9-cb6a447c591a",
+    "qName": "QLogs",
+    "qConnectionString": "CUSTOM CONNECT TO \"provider=QvOdbcConnectorPackage.exe;driver=postgres;host=localhost;port=4432;db=QLogs;FetchTSWTZasTimestamp=1;MaxVarcharSize=262144;\"",
+    "qType": "QvOdbcConnectorPackage.exe",
+    "qMeta": {
+      "qArchitecture": 0,
+      "createdDate": "2019-10-16T13:09:25.079Z",
+      "modifiedDate": "2020-09-20T09:29:21.638Z",
+      "privileges": [
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "qLogOn": "LOG_ON_SERVICE_USER"
+  }
+}

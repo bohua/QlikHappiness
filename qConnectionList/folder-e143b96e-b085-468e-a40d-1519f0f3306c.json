@@ -1,0 +1,21 @@
+{
+  "qtype": "folder",
+  "qid": "e143b96e-b085-468e-a40d-1519f0f3306c",
+  "qProperties": {
+    "qId": "e143b96e-b085-468e-a40d-1519f0f3306c",
+    "qName": "__GEO_TABLES",
+    "qConnectionString": "C:\\Users\\bps\\AppData\\Local\\Programs\\Qlik\\Sense\\DataPrepService\\src\\geo",
+    "qType": "folder",
+    "qMeta": {
+      "qArchitecture": 0,
+      "createdDate": "2019-11-11T10:03:30.221Z",
+      "modifiedDate": "2019-11-11T10:03:30.221Z",
+      "privileges": [
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "qLogOn": "LOG_ON_SERVICE_USER"
+  }
+}

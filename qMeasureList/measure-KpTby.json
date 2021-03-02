@@ -1,0 +1,57 @@
+{
+  "qtype": "measure",
+  "qid": "KpTby",
+  "qProperties": {
+    "qInfo": {
+      "qId": "KpTby",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qLabel": "Overall Life Expectancy",
+      "qDef": "minstring(Overall_Life_Expectancy)",
+      "qGrouping": "N",
+      "qExpressions": [],
+      "qActiveExpression": 0,
+      "qNumFormat": {
+        "qType": "U",
+        "qnDec": 10,
+        "qUseThou": 0
+      }
+    },
+    "qMetaDef": {
+      "title": "Overall Life Expectancy",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": [],
+  "qMeta": {
+    "title": "Overall Life Expectancy",
+    "description": "",
+    "createdDate": "2020-10-06T08:56:32.788Z",
+    "modifiedDate": "2020-10-06T19:06:04.213Z",
+    "published": false,
+    "publishTime": "1753-01-01T00:00:00.000Z",
+    "approved": false,
+    "owner": {
+      "id": "b1035eac-0a60-45fd-886a-1b7fdd4917a5",
+      "userId": "bl",
+      "userDirectory": "S-CUBED",
+      "userDirectoryConnectorName": "S-CUBED",
+      "name": "Bohua Li",
+      "privileges": null
+    },
+    "qSize": -1,
+    "sourceObject": "",
+    "draftObject": "",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "exportdata",
+      "publish",
+      "approve"
+    ],
+    "tags": []
+  }
+}

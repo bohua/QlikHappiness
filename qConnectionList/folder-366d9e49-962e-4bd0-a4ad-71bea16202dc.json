@@ -1,0 +1,21 @@
+{
+  "qtype": "folder",
+  "qid": "366d9e49-962e-4bd0-a4ad-71bea16202dc",
+  "qProperties": {
+    "qId": "366d9e49-962e-4bd0-a4ad-71bea16202dc",
+    "qName": "Butler scripts",
+    "qConnectionString": "C:\\node\\butler\\sense_script\\",
+    "qType": "folder",
+    "qMeta": {
+      "qArchitecture": 0,
+      "createdDate": "2020-08-19T23:21:39.700Z",
+      "modifiedDate": "2020-08-19T23:21:53.809Z",
+      "privileges": [
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "qLogOn": "LOG_ON_SERVICE_USER"
+  }
+}

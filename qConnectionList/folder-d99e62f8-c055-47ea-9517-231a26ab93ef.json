@@ -1,0 +1,21 @@
+{
+  "qtype": "folder",
+  "qid": "d99e62f8-c055-47ea-9517-231a26ab93ef",
+  "qProperties": {
+    "qId": "d99e62f8-c055-47ea-9517-231a26ab93ef",
+    "qName": "KOMMENT",
+    "qConnectionString": "C:\\Komment\\",
+    "qType": "folder",
+    "qMeta": {
+      "qArchitecture": 0,
+      "createdDate": "2020-02-14T09:32:37.175Z",
+      "modifiedDate": "2020-02-14T09:34:02.581Z",
+      "privileges": [
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "qLogOn": "LOG_ON_SERVICE_USER"
+  }
+}

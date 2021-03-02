@@ -1,0 +1,21 @@
+{
+  "qtype": "folder",
+  "qid": "56ce3d4a-3530-4f98-971c-402e203cb8ce",
+  "qProperties": {
+    "qId": "56ce3d4a-3530-4f98-971c-402e203cb8ce",
+    "qName": "AnyGivenDataConnection",
+    "qConnectionString": "\\\\qlikview2012\\SharedFiles\\QaaS\\KommentDemo\\",
+    "qType": "folder",
+    "qMeta": {
+      "qArchitecture": 0,
+      "createdDate": "2020-04-02T20:25:23.712Z",
+      "modifiedDate": "2020-04-03T09:42:12.263Z",
+      "privileges": [
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "qLogOn": "LOG_ON_SERVICE_USER"
+  }
+}

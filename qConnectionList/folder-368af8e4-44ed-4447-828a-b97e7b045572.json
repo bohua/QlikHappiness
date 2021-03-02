@@ -1,0 +1,21 @@
+{
+  "qtype": "folder",
+  "qid": "368af8e4-44ed-4447-828a-b97e7b045572",
+  "qProperties": {
+    "qId": "368af8e4-44ed-4447-828a-b97e7b045572",
+    "qName": "RBM_Transformation",
+    "qConnectionString": "\\\\qlikview2012\\SharedFiles\\Sense\\Novo Nordisk\\RBM\\20_Transformation\\",
+    "qType": "folder",
+    "qMeta": {
+      "qArchitecture": 0,
+      "createdDate": "2020-06-18T13:04:21.459Z",
+      "modifiedDate": "2020-06-18T13:06:19.232Z",
+      "privileges": [
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "qLogOn": "LOG_ON_SERVICE_USER"
+  }
+}

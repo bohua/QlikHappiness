@@ -1,0 +1,255 @@
+{
+  "qtype": "sheet",
+  "qid": "c5e87734-ef5a-4868-a79b-da91d13420fe",
+  "qProperties": {
+    "qInfo": {
+      "qId": "c5e87734-ef5a-4868-a79b-da91d13420fe",
+      "qType": "sheet"
+    },
+    "qMetaDef": {
+      "title": "Introduction",
+      "description": ""
+    },
+    "rank": 7,
+    "columns": 24,
+    "rows": 12,
+    "cells": [
+      {
+        "name": "aef8d1ab-67b5-456d-aad7-165d9b24132b",
+        "type": "text-image",
+        "col": 0,
+        "row": 0,
+        "colspan": 24,
+        "rowspan": 5,
+        "bounds": {
+          "y": 0,
+          "x": 0,
+          "width": 100,
+          "height": 41.66666666666667
+        }
+      },
+      {
+        "name": "RkXvKmK",
+        "type": "text-image",
+        "col": 0,
+        "row": 5,
+        "colspan": 8,
+        "rowspan": 6
+      },
+      {
+        "name": "ZJspVjf",
+        "type": "text-image",
+        "col": 8,
+        "row": 5,
+        "colspan": 8,
+        "rowspan": 6
+      },
+      {
+        "name": "jYrhhK",
+        "type": "text-image",
+        "col": 16,
+        "row": 5,
+        "colspan": 8,
+        "rowspan": 6
+      }
+    ],
+    "thumbnail": {
+      "qStaticContentUrlDef": {
+        "qUrl": "/appcontent/d820fc07-439a-4724-a7f0-d9ef3e078651/Happiness_Introduction.png"
+      }
+    }
+  },
+  "qChildInfos": [
+    {
+      "qtype": "text-image",
+      "qid": "aef8d1ab-67b5-456d-aad7-165d9b24132b",
+      "qProperties": {
+        "qInfo": {
+          "qId": "aef8d1ab-67b5-456d-aad7-165d9b24132b",
+          "qType": "text-image"
+        },
+        "qExtendsId": "ee4b876b-83f3-4e6a-983e-d32ad1e80e89",
+        "qMetaDef": {}
+      },
+      "qChildInfos": []
+    },
+    {
+      "qtype": "text-image",
+      "qid": "RkXvKmK",
+      "qProperties": {
+        "qInfo": {
+          "qId": "RkXvKmK",
+          "qType": "text-image"
+        },
+        "qMetaDef": {},
+        "qHyperCubeDef": {
+          "qDimensions": [],
+          "qMeasures": [],
+          "qInterColumnSortOrder": [],
+          "qInitialDataFetch": [],
+          "qReductionMode": "N",
+          "qMode": "S",
+          "qPseudoDimPos": -1,
+          "qNoOfLeftDims": -1,
+          "qMaxStackedCells": 5000,
+          "qCalcCond": {},
+          "qTitle": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qExpansionState": [],
+          "qLayoutExclude": {}
+        },
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "responsive": "all",
+        "markdown": "^[#[%[**Costa Rica is ranked #1 in the HPI**](4)](1)](center)",
+        "background": {
+          "url": {
+            "qStaticContentUrlDef": {
+              "qUrl": "/appcontent/d820fc07-439a-4724-a7f0-d9ef3e078651/Costa_Rica.png"
+            }
+          },
+          "size": "alwaysFit",
+          "isUsed": true,
+          "position": "centerRight"
+        },
+        "visualization": "text-image",
+        "images": []
+      },
+      "qChildInfos": []
+    },
+    {
+      "qtype": "text-image",
+      "qid": "ZJspVjf",
+      "qProperties": {
+        "qInfo": {
+          "qId": "ZJspVjf",
+          "qType": "text-image"
+        },
+        "qMetaDef": {},
+        "qHyperCubeDef": {
+          "qDimensions": [],
+          "qMeasures": [],
+          "qInterColumnSortOrder": [],
+          "qInitialDataFetch": [],
+          "qReductionMode": "N",
+          "qMode": "S",
+          "qPseudoDimPos": -1,
+          "qNoOfLeftDims": -1,
+          "qMaxStackedCells": 5000,
+          "qCalcCond": {},
+          "qTitle": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qExpansionState": [],
+          "qLayoutExclude": {}
+        },
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "responsive": "all",
+        "markdown": "^[**#[%[Afghanistan has the lowest Global Footprint](4)](1)**](center)",
+        "background": {
+          "url": {
+            "qStaticContentUrlDef": {
+              "qUrl": "/appcontent/d820fc07-439a-4724-a7f0-d9ef3e078651/Afghanistan.png"
+            }
+          },
+          "size": "alwaysFit",
+          "isUsed": true,
+          "position": "centerRight"
+        },
+        "visualization": "text-image",
+        "images": []
+      },
+      "qChildInfos": []
+    },
+    {
+      "qtype": "text-image",
+      "qid": "jYrhhK",
+      "qProperties": {
+        "qInfo": {
+          "qId": "jYrhhK",
+          "qType": "text-image"
+        },
+        "qMetaDef": {},
+        "qHyperCubeDef": {
+          "qDimensions": [],
+          "qMeasures": [],
+          "qInterColumnSortOrder": [],
+          "qInitialDataFetch": [],
+          "qReductionMode": "N",
+          "qMode": "S",
+          "qPseudoDimPos": -1,
+          "qNoOfLeftDims": -1,
+          "qMaxStackedCells": 5000,
+          "qCalcCond": {},
+          "qTitle": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qExpansionState": [],
+          "qLayoutExclude": {}
+        },
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "responsive": "all",
+        "markdown": "^[**#[%[Switzerland is ranked #1 in Happy Life Years](4)](1)**](center)",
+        "background": {
+          "url": {
+            "qStaticContentUrlDef": {
+              "qUrl": "/appcontent/d820fc07-439a-4724-a7f0-d9ef3e078651/Switzerland.png"
+            }
+          },
+          "size": "alwaysFit",
+          "isUsed": true,
+          "position": "centerRight"
+        },
+        "visualization": "text-image",
+        "images": []
+      },
+      "qChildInfos": []
+    }
+  ],
+  "qMeta": {
+    "title": "Introduction",
+    "description": "",
+    "createdDate": "2020-10-06T08:56:32.788Z",
+    "modifiedDate": "2020-10-06T19:06:04.213Z",
+    "published": false,
+    "publishTime": "1753-01-01T00:00:00.000Z",
+    "approved": false,
+    "owner": {
+      "id": "b1035eac-0a60-45fd-886a-1b7fdd4917a5",
+      "userId": "bl",
+      "userDirectory": "S-CUBED",
+      "userDirectoryConnectorName": "S-CUBED",
+      "name": "Bohua Li",
+      "privileges": null
+    },
+    "qSize": -1,
+    "sourceObject": "",
+    "draftObject": "",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "exportdata",
+      "publish",
+      "approve"
+    ]
+  }
+}

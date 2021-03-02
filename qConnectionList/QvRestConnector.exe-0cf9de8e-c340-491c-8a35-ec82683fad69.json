@@ -1,0 +1,21 @@
+{
+  "qtype": "QvRestConnector.exe",
+  "qid": "0cf9de8e-c340-491c-8a35-ec82683fad69",
+  "qProperties": {
+    "qId": "0cf9de8e-c340-491c-8a35-ec82683fad69",
+    "qName": "monitor_apps_REST_task",
+    "qConnectionString": "CUSTOM CONNECT TO \"provider=QvRestConnector.exe;url=https://localhost/qrs/task/full;timeout=900;method=GET;autoDetectResponseType=true;keyGenerationStrategy=0;authSchema=ntlm;skipServerCertificateValidation=true;useCertificate=No;certificateStoreLocation=LocalMachine;certificateStoreName=My;trustedLocations=qrs-proxy%2https://localhost:4244;queryParameters=xrfkey%20000000000000000;addMissingQueryParametersToFinalRequest=false;queryHeaders=X-Qlik-XrfKey%20000000000000000%1User-Agent%2Windows;PaginationType=None;\"",
+    "qType": "QvRestConnector.exe",
+    "qMeta": {
+      "qArchitecture": 0,
+      "createdDate": "2019-10-16T13:09:25.673Z",
+      "modifiedDate": "2019-10-16T13:09:25.673Z",
+      "privileges": [
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "qLogOn": "LOG_ON_SERVICE_USER"
+  }
+}

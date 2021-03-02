@@ -1,0 +1,21 @@
+{
+  "qtype": "folder",
+  "qid": "234e6dc1-fe08-43f1-8606-92b0d6756204",
+  "qProperties": {
+    "qId": "234e6dc1-fe08-43f1-8606-92b0d6756204",
+    "qName": "ServerLogFolder",
+    "qConnectionString": "C:\\ProgramData\\Qlik\\Sense\\Log\\",
+    "qType": "folder",
+    "qMeta": {
+      "qArchitecture": 0,
+      "createdDate": "2019-10-16T13:58:29.226Z",
+      "modifiedDate": "2019-10-16T13:58:29.226Z",
+      "privileges": [
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "qLogOn": "LOG_ON_SERVICE_USER"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "qtype": "folder",
+  "qid": "bcacdd38-1ec4-44dd-9545-c9680e60669e",
+  "qProperties": {
+    "qId": "bcacdd38-1ec4-44dd-9545-c9680e60669e",
+    "qName": "MasterObjects",
+    "qConnectionString": "C:\\Users\\fanta\\Documents\\QlikDemo\\MasterObjects\\",
+    "qType": "folder",
+    "qMeta": {
+      "qArchitecture": 0,
+      "createdDate": "2020-09-16T12:24:00.097Z",
+      "modifiedDate": "2020-09-16T12:24:00.097Z",
+      "privileges": [
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "qLogOn": "LOG_ON_SERVICE_USER"
+  }
+}

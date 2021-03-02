@@ -1,0 +1,145 @@
+{
+  "qTitle": "Happiness",
+  "qFileName": "d820fc07-439a-4724-a7f0-d9ef3e078651",
+  "qLastReloadTime": "2020-09-15T11:58:02.613Z",
+  "qHasScript": true,
+  "qStateNames": [],
+  "qMeta": {},
+  "qLocaleInfo": {
+    "qDecimalSep": ".",
+    "qThousandSep": ".",
+    "qListSep": ";",
+    "qMoneyDecimalSep": ".",
+    "qMoneyThousandSep": ",",
+    "qCurrentYear": 2020,
+    "qMoneyFmt": "$#,##0.00;($#,##0.00)",
+    "qTimeFmt": "h:mm:ss TT",
+    "qDateFmt": "M/D/YYYY",
+    "qTimestampFmt": "M/D/YYYY h:mm:ss[.fff] TT",
+    "qCalendarStrings": {
+      "qDayNames": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "qMonthNames": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec"
+      ],
+      "qLongDayNames": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "qLongMonthNames": [
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December"
+      ]
+    },
+    "qFirstWeekDay": 6,
+    "qBrokenWeeks": true,
+    "qReferenceDay": 0,
+    "qFirstMonthOfYear": 1,
+    "qCollation": "en-US",
+    "qNumericalAbbreviation": "3:k;6:M;9:G;12:T;15:P;18:E;21:Z;24:Y;-3:m;-6:\u03bc;-9:n;-12:p;-15:f;-18:a;-21:z;-24:y"
+  },
+  "qHasData": true,
+  "qThumbnail": {
+    "qUrl": "/appcontent/d820fc07-439a-4724-a7f0-d9ef3e078651/Happiness-thumbnail.png"
+  },
+  "createdDate": "2020-10-06T08:56:32.094Z",
+  "modifiedDate": "2020-10-06T19:06:04.213Z",
+  "published": false,
+  "publishTime": "1753-01-01T00:00:00.000Z",
+  "privileges": [
+    "read",
+    "update",
+    "delete",
+    "publish",
+    "exportdata",
+    "offlineaccess",
+    "duplicate"
+  ],
+  "description": "The world is full of happy people from one stretch of the globe to the other.  Yet some countries have a higher concentration of joy than others.  But what\u2019s the secret to these happy countries? ...",
+  "dynamicColor": null,
+  "create": [
+    {
+      "resource": "sheet",
+      "canCreate": true
+    },
+    {
+      "resource": "bookmark",
+      "canCreate": true
+    },
+    {
+      "resource": "snapshot",
+      "canCreate": true
+    },
+    {
+      "resource": "story",
+      "canCreate": true
+    },
+    {
+      "resource": "dimension",
+      "canCreate": true
+    },
+    {
+      "resource": "measure",
+      "canCreate": true
+    },
+    {
+      "resource": "masterobject",
+      "canCreate": true
+    },
+    {
+      "resource": "folderconnection",
+      "canCreate": true
+    },
+    {
+      "resource": "oledbconnection",
+      "canCreate": true
+    },
+    {
+      "resource": "odbcconnection",
+      "canCreate": true
+    },
+    {
+      "resource": "internetconnection",
+      "canCreate": true
+    },
+    {
+      "resource": "customconnection",
+      "canCreate": true
+    }
+  ],
+  "stream": null,
+  "canCreateDataConnections": true
+}

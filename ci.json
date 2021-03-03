@@ -7,7 +7,7 @@
       "description": "Build QVF from Git repo into Qlik Sense",
       "command": "build",
       "params": {
-        "buildName": "Qlik CI Dev",
+        "buildName": "Qlik CI Dev Build",
         "keepData": false
       }
     },
@@ -23,8 +23,7 @@
       "command": "publish",
       "params": {
         "streamId": "b2ae184b-4206-4943-875f-80cce0f92853",
-        "targetAppId": "533066cb-babd-47be-95be-c879ac924b74",
-        "publishName": "Qlik CI"
+        "publishName": "Qlik CI with Github"
       }
     },
     {
